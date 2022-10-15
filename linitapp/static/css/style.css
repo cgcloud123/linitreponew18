@@ -1509,6 +1509,10 @@ html{
     .y98{
         top:60px;
     }
+    .env{
+        position: relative;
+        width: 350px !important;
+    }
     .t4{
        margin-top: 10px;   
     }
