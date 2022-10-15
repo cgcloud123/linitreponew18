@@ -1,6 +1,6 @@
 from dataclasses import fields
 import email
-from tkinter import Widget
+
 from .models import Userdetails
 from django import forms
 from linitapp.models import *
