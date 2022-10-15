@@ -1,6 +1,5 @@
 from dataclasses import fields
 import email
-from socket import fromshare
 from tkinter import Widget
 from .models import Userdetails
 from django import forms
